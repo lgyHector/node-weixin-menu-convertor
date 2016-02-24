@@ -1,0 +1,47 @@
+{
+  "is_menu_open": 1,
+  "selfmenu_info": {
+    "button": [
+      {
+        "name": "父菜单",
+        "sub_button": {
+          "list": [
+            {
+              "type": "img",
+              "name": "图片",
+              "value": "JtYBOqUti8MRu1AW5wQ2mBJAUdIMHVZvBfLjdc54zkQ_u1-et4oRKY79_o16B_FN"
+            },
+            {
+              "type": "view",
+              "name": "链接",
+              "url": "http://monit.goodsfans.com/statement/main"
+            },
+            {
+              "type": "text",
+              "name": "文字",
+              "value": "文字消息"
+            }
+          ]
+        }
+      },
+      {
+        "type": "news",
+        "name": "图文消息",
+        "value": "UciHcrCnkAg5JR06hkzfrBfYB-tQIAoB9L4ipakE_H8",
+        "news_info": {
+          "list": [
+            {
+              "title": "图文消息标题",
+              "author": "",
+              "digest": "图文消息digest",
+              "show_cover": 0,
+              "cover_url": "http://mmbiz.qpic.cn/mmbiz/",
+              "content_url": "http://mp.weixin.qq.com/",
+              "source_url": ""
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

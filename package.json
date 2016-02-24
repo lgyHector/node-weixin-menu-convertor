@@ -1,0 +1,16 @@
+{
+  "name": "node-weixin-menu-convertor",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node_modules/mocha/bin/_mocha test/test.js"
+  },
+  "repository": "lgyhitler/node-weixin-menu-convertor",
+  "license": "MIT",
+  "dependencies": {
+    "random-string": "^0.1.2",
+    "json2xml": "^0.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
